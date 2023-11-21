@@ -13,7 +13,7 @@
 
 // const finalAnswer = guessWho();
 // console.log(finalAnswer);
-// Prediction: joseph 
+// Prediction: joseph because the variable has been declared and called. 
 
 // // GUESS 2 ///////////////////
 
@@ -30,7 +30,7 @@
 
 // const guess2 = `Guess Who is ${firstName}`;
 // console.log("guess2: ", guess2);
-// prediction: guess1 is liz and guess2 is Donna 
+// prediction: guess1 is liz and guess2 is Donna because firstName has been reassigned. 
 
 // // GUESS 3 ///////////////////
 
@@ -63,7 +63,7 @@
 // const finalAnswer = guessWho();
 // console.log(finalAnswer);
 
-// prediction: chris 
+// prediction: chris because hat key is being called and Andy does not have one. 
 
 // // GUESS 4 ///////////////////
 
@@ -80,7 +80,7 @@
 // const finalAnswer = guessWho();
 // console.log(finalAnswer);
 
-// prediction: Gail
+// prediction: Gail because Gail is equal to the firstName which is declared. so the firstName inside the block can only be accessed from that block. 
 
 // GUESS 5 ///////////////////
 
